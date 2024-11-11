@@ -46,4 +46,4 @@ For questions or feedback, please contact:
 *[Tapzul Sai Charan]*  
 *Data Analyst*  
 *Email*: tapzulsaicharan@gmail.com 
-*LinkedIn*: [LinkedIn] (https://www.linkedin.com/in/tapzul-sai-charan?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[LinkedIn] (https://www.linkedin.com/in/tapzul-sai-charan?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
