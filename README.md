@@ -40,10 +40,4 @@ To view and interact with the report, you will need Power BI Desktop or Power BI
 - README.md: Project documentation and details.
 
 ## Contact
-
-For questions or feedback, please contact:
-
-*[Tapzul Sai Charan]*  
-*Data Analyst*  
-*Email*: tapzulsaicharan@gmail.com 
-[LinkedIn] (https://www.linkedin.com/in/tapzul-sai-charan?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+For more information, feel free to connect with us on [LinkedIn](https://www.linkedin.com/in/tapzul-sai-charan?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app).
